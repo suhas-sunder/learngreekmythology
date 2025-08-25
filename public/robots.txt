@@ -2,5 +2,4 @@
 User-agent: *
 Allow: /
 
-
 Sitemap: https://www.learngreekmythology.com/sitemap.xml
